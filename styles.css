@@ -1,8 +1,10 @@
 img {
-    width: 200px;
+    width: 364px;
+    height: 200px;
 }
 
 body {
+    background-image: url("http://blogs.tech-recipes.com/davak/files/2007/11/quit_working.jpg");
     text-align: center;
-    font-family: "Arial";
+    font-family: "comic-sans";
 }
